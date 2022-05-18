@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://geoloniamaps.github.io/pwamap/",
+  "homepage": "https://mnnf.github.io/map-of-go-clubs/",
   "eslintConfig": {
     "extends": "react-app"
   },
