@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/map-of-go-clubs/static/css/main.c570c0c2.chunk.css",
-    "main.js": "/map-of-go-clubs/static/js/main.b2fdd51c.chunk.js",
-    "main.js.map": "/map-of-go-clubs/static/js/main.b2fdd51c.chunk.js.map",
+    "main.js": "/map-of-go-clubs/static/js/main.b0e9eddd.chunk.js",
+    "main.js.map": "/map-of-go-clubs/static/js/main.b0e9eddd.chunk.js.map",
     "runtime-main.js": "/map-of-go-clubs/static/js/runtime-main.1fc9c31e.js",
     "runtime-main.js.map": "/map-of-go-clubs/static/js/runtime-main.1fc9c31e.js.map",
     "static/js/2.95ee1195.chunk.js": "/map-of-go-clubs/static/js/2.95ee1195.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1fc9c31e.js",
     "static/js/2.95ee1195.chunk.js",
     "static/css/main.c570c0c2.chunk.css",
-    "static/js/main.b2fdd51c.chunk.js"
+    "static/js/main.b0e9eddd.chunk.js"
   ]
 }
